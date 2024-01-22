@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Actor/RunCharacter.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Controllers/RunCharacterController.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/EndlessRunnerMapP1.umap",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Levels/EndlessRunnerMapP1.umap",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/GameModes/RunGameMode.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Actor/BP_FloorTile.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Actor/Obstacle.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Actor/RockObstacle.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/StarterContent/Props/SM_Rock.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/VFX/coin.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Actor/CoinPickUp.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Actor/PickUp.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Widget/CoinDisplay.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Actor/ABP_Runner.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Animation/AnimationAssets/Death_3.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Animation/AnimationAssets/Death_2.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Animation/AnimationAssets/Death_1.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Animation/AnimationAssets/Jog_Rt_Rifle.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Animation/AnimationAssets/Jog_Lt_Rifle.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Animation/AnimationAssets/Jog_Fwd_Rifle.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Animation/AnimationAssets/Jog_Bwd_Rifle.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Animation/AnimationAssets/Idle_Rifle_Hip.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Animation/AnimationAssets/Enemy_Walk.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Animation/AnimationAssets/Enemy_Idle.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Animation/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Animation/AnimationAssets/UE4_Mannequin/Mesh/SK_Mannequin_Skeleton.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Actor/RockObstacle1.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Actor/BP_Coin.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Actor/BP_Coin_Child.uasset",
+				"C:/dev/EndlessRunnerP1/EndlessRunnerP1/Content/Controllers/Run.uasset"
+			]
+		}
+	]
+}
